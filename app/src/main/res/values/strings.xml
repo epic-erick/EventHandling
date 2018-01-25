@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventHandling</string>
+    <string name="ButtonText">Click Me!</string>
+    <string name="StringText">Hello!</string>
+    <string name="ChangedText">Good Job!</string>
+    <string name="LongText">Good Job on that Long Click!</string>
+</resources>
